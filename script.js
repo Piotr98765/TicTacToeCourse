@@ -1,3 +1,5 @@
+//Basic JS
+
 var origBoard;
 const huPlayer = 'O';
 const aiPlayer = 'X';
